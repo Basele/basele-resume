@@ -1,4 +1,4 @@
-# My personnal resume based on Hugo Minimal Resume Theme
+# My personnal resume 
 
-[![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
+[![Screenshot](./preview.png)](https://portfolio.basdermafrica.co.ke/)
 

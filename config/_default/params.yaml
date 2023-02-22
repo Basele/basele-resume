@@ -42,7 +42,7 @@ header:
 footer:
   copyright:
     notice: '© {year} Me. This is my personal portfolio'
-    license:
+  
       enable: true
       allow_derivatives: false
       share_alike: true

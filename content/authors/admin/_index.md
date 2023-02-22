@@ -32,6 +32,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/gbasele
+    icon: facebook
+    icon_pack: fab
+    link: https://www.facebook.com/stephen.basele/
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/basele_
