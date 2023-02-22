@@ -1,7 +1,7 @@
 ---
 # Display name
-title: 吳恩達
-name_pronunciation: Wu En da
+title: Basele Stephen
+name_pronunciation: Ba Se Le
 
 # Is this the primary user of the site?
 superuser: true
@@ -15,7 +15,7 @@ status:
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
+#- name: Basele
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,13 +28,13 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:s.basele@gmail.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://twitter.com/wowchem/gbasele
   - icon: instagram
     icon_pack: fab
-    link: https://www.instagram.com/spacex/
+    link: https://www.instagram.com/basele/
   - icon: weibo
     icon_pack: fab
     link: ttps://weibo.com/p/1008088f0ff813c3676d81a04a616ba555af0c/super_index
@@ -46,7 +46,7 @@ social:
     link: https://orcid.org/0000-0001-5547-3196
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/basele
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf`
   - icon: file-pdf
