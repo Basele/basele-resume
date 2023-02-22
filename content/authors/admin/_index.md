@@ -31,19 +31,13 @@ social:
     link: 'mailto:s.basele@gmail.com'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchem/gbasele
+    link: https://twitter.com/gbasele
   - icon: instagram
     icon_pack: fab
-    link: https://www.instagram.com/basele/
-  - icon: weibo
-    icon_pack: fab
-    link: ttps://weibo.com/p/1008088f0ff813c3676d81a04a616ba555af0c/super_index
-  - icon: tiktok
-    icon_pack: fab
-    link: https://www.tiktok.com/@spacex.to.mars
+    link: https://www.instagram.com/basele_
   - icon: orcid
     icon_pack: fab
-    link: https://orcid.org/0000-0001-5547-3196
+    link: https://orcid.org/0000-0001-5904-7178
   - icon: github
     icon_pack: fab
     link: https://github.com/basele
